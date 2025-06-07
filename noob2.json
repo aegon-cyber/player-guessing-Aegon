@@ -1,0 +1,2639 @@
+{
+  "players": [
+  {
+    "name":"特尔·施特根 (Marc-André ter Stegen)",
+    "age":"33",
+    "position":"Goalkeeper",
+    "nationality":"Germany",
+    "foot":"right",
+    "number":"1",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"伊尼亚基·佩尼亚 (Iñaki Peña)",
+    "age":"26",
+    "position":"Goalkeeper",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"13",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"什琴斯尼 (Wojciech Szczesny)",
+    "age":"35",
+    "position":"Goalkeeper",
+    "nationality":"Poland",
+    "foot":"right",
+    "number":"25",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"保·库巴西 (Pau Cubarsí)",
+    "age":"18",
+    "position":"Centre-Back",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"2",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"罗纳德·阿劳霍 (Ronald Araujo)",
+    "age":"26",
+    "position":"Centre-Back",
+    "nationality":"Uruguay",
+    "foot":"right",
+    "number":"4",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"安德烈亚斯·克里斯滕森 (Andreas Christensen)",
+    "age":"29",
+    "position":"Centre-Back",
+    "nationality":"Denmark",
+    "foot":"right",
+    "number":"15",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"埃里克·加西亚 (Eric García)",
+    "age":"24",
+    "position":"Centre-Back",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"24",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"伊尼戈·马丁内斯 (Iñigo Martínez)",
+    "age":"34",
+    "position":"Centre-Back",
+    "nationality":"Spain",
+    "foot":"left",
+    "number":"5",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"亚历杭德罗·巴尔德 (Alejandro Balde)",
+    "age":"21",
+    "position":"Left-Back",
+    "nationality":"Spain",
+    "foot":"left",
+    "number":"3",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"赫拉德·马丁 (Gerard Martín)",
+    "age":"23",
+    "position":"Left-Back",
+    "nationality":"Spain",
+    "foot":"left",
+    "number":"35",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"朱尔·孔德 (Jules Koundé)",
+    "age":"26",
+    "position":"Right-Back",
+    "nationality":"France",
+    "foot":"right",
+    "number":"23",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"埃克托·福特 (Héctor Fort)",
+    "age":"18",
+    "position":"Right-Back",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"32",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"马尔克·卡萨多 (Marc Casadó)",
+    "age":"21",
+    "position":"Defensive Midfield",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"17",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"马尔克·贝尔纳尔 (Marc Bernal)",
+    "age":"18",
+    "position":"Defensive Midfield",
+    "nationality":"Spain",
+    "foot":"left",
+    "number":"28",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"佩德里 (Pedri)",
+    "age":"22",
+    "position":"Central Midfield",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"8",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"加维 (Gavi)",
+    "age":"20",
+    "position":"Central Midfield",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"6",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"弗兰基·德容 (Frenkie de Jong)",
+    "age":"28",
+    "position":"Central Midfield",
+    "nationality":"Netherlands",
+    "foot":"right",
+    "number":"21",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"丹尼·奥尔莫 (Dani Olmo)",
+    "age":"27",
+    "position":"Attacking Midfield",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"20",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"费尔明·洛佩斯 (Fermín López)",
+    "age":"22",
+    "position":"Attacking Midfield",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"16",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"巴勃罗·托雷 (Pablo Torre)",
+    "age":"22",
+    "position":"Attacking Midfield",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"14",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"拉菲尼亚 (Raphinha)",
+    "age":"28",
+    "position":"Left Winger",
+    "nationality":"Brazil",
+    "foot":"left",
+    "number":"11",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"安苏·法蒂 (Ansu Fati)",
+    "age":"22",
+    "position":"Left Winger",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"10",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"拉明·亚马尔 (Lamine Yamal)",
+    "age":"17",
+    "position":"Right Winger",
+    "nationality":"Spain",
+    "foot":"left",
+    "number":"19",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"费兰·托雷斯 (Ferran Torres)",
+    "age":"25",
+    "position":"Centre-Forward",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"7",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"罗伯特·莱万多夫斯基 (Robert Lewandowski)",
+    "age":"36",
+    "position":"Centre-Forward",
+    "nationality":"Poland",
+    "foot":"right",
+    "number":"9",
+    "club":"FC Barcelona"
+  },
+  {
+    "name":"保·维克托 (Pau Víctor)",
+    "age":"23",
+    "position":"Centre-Forward",
+    "nationality":"Spain",
+    "foot":"right",
+    "number":"18",
+    "club":"FC Barcelona"
+  },
+  
+        {
+            "name": "David Raya",
+            "age": "29",
+            "position": "Goalkeeper",
+            "nationality": "Spain",
+            "foot": "right",
+            "number": "22",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Neto",
+            "age": "35",
+            "position": "Goalkeeper",
+            "nationality": "Brazil",
+            "foot": "right",
+            "number": "32",
+            "club": "Arsenal"
+        },
+        {
+            "name": "William Saliba",
+            "age": "24",
+            "position": "Centre-Back",
+            "nationality": "France",
+            "foot": "right",
+            "number": "2",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Gabriel Magalhães",
+            "age": "27",
+            "position": "Centre-Back",
+            "nationality": "Brazil",
+            "foot": "left",
+            "number": "6",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Jakub Kiwior",
+            "age": "25",
+            "position": "Centre-Back",
+            "nationality": "Poland",
+            "foot": "left",
+            "number": "15",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Myles Lewis-Skelly",
+            "age": "18",
+            "position": "Left-Back",
+            "nationality": "England",
+            "foot": "left",
+            "number": "49",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Riccardo Calafiori",
+            "age": "23",
+            "position": "Left-Back",
+            "nationality": "Italy",
+            "foot": "left",
+            "number": "33",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Oleksandr Zinchenko",
+            "age": "28",
+            "position": "Left-Back",
+            "nationality": "Ukraine",
+            "foot": "left",
+            "number": "17",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Kieran Tierney",
+            "age": "28",
+            "position": "Left-Back",
+            "nationality": "Scotland",
+            "foot": "left",
+            "number": "3",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Jurrien Timber",
+            "age": "23",
+            "position": "Right-Back",
+            "nationality": "Netherlands",
+            "foot": "right",
+            "number": "12",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Ben White",
+            "age": "27",
+            "position": "Right-Back",
+            "nationality": "England",
+            "foot": "right",
+            "number": "4",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Takehiro Tomiyasu",
+            "age": "26",
+            "position": "Right-Back",
+            "nationality": "Japan",
+            "foot": "right",
+            "number": "18",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Thomas Partey",
+            "age": "31",
+            "position": "Defensive Midfield",
+            "nationality": "Ghana",
+            "foot": "right",
+            "number": "5",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Jorginho",
+            "age": "33",
+            "position": "Defensive Midfield",
+            "nationality": "Italy",
+            "foot": "right",
+            "number": "20",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Declan Rice",
+            "age": "26",
+            "position": "Central Midfield",
+            "nationality": "England",
+            "foot": "right",
+            "number": "41",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Mikel Merino",
+            "age": "28",
+            "position": "Central Midfield",
+            "nationality": "Spain",
+            "foot": "left",
+            "number": "23",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Martin Ødegaard",
+            "age": "26",
+            "position": "Attacking Midfield",
+            "nationality": "Norway",
+            "foot": "left",
+            "number": "8",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Gabriel Martinelli",
+            "age": "23",
+            "position": "Left Winger",
+            "nationality": "Brazil",
+            "foot": "right",
+            "number": "11",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Leandro Trossard",
+            "age": "30",
+            "position": "Left Winger",
+            "nationality": "Belgium",
+            "foot": "right",
+            "number": "19",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Bukayo Saka",
+            "age": "23",
+            "position": "Right Winger",
+            "nationality": "England",
+            "foot": "left",
+            "number": "7",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Ethan Nwaneri",
+            "age": "18",
+            "position": "Right Winger",
+            "nationality": "England",
+            "foot": "left",
+            "number": "53",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Raheem Sterling",
+            "age": "30",
+            "position": "Right Winger",
+            "nationality": "England",
+            "foot": "right",
+            "number": "30",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Kai Havertz",
+            "age": "25",
+            "position": "Centre-Forward",
+            "nationality": "Germany",
+            "foot": "left",
+            "number": "29",
+            "club": "Arsenal"
+        },
+        {
+            "name": "Gabriel Jesus",
+            "age": "28",
+            "position": "Centre-Forward",
+            "nationality": "Brazil",
+            "foot": "right",
+            "number": "9",
+            "club": "Arsenal"
+        },
+        {
+          "name": "Gianluigi Donnarumma",
+          "age": "26",
+          "position": "Goalkeeper",
+          "nationality": "Italy",
+          "foot": "right",
+          "number": "1",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Matvey Safonov",
+          "age": "26",
+          "position": "Goalkeeper",
+          "nationality": "Russia",
+          "foot": "right",
+          "number": "39",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Arnau Tenas",
+          "age": "24",
+          "position": "Goalkeeper",
+          "nationality": "Spain",
+          "foot": "right",
+          "number": "80",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Willian Pacho",
+          "age": "23",
+          "position": "Centre-Back",
+          "nationality": "Ecuador",
+          "foot": "left",
+          "number": "51",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Marquinhos",
+          "age": "31",
+          "position": "Centre-Back",
+          "nationality": "Brazil",
+          "foot": "right",
+          "number": "5",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Lucas Beraldo",
+          "age": "21",
+          "position": "Centre-Back",
+          "nationality": "Brazil",
+          "foot": "left",
+          "number": "35",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Presnel Kimpembe",
+          "age": "29",
+          "position": "Centre-Back",
+          "nationality": "France",
+          "foot": "left",
+          "number": "3",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Axel Tape",
+          "age": "17",
+          "position": "Centre-Back",
+          "nationality": "France",
+          "foot": "未知",
+          "number": "48",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Nuno Mendes",
+          "age": "22",
+          "position": "Left-Back",
+          "nationality": "Portugal",
+          "foot": "left",
+          "number": "25",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Lucas Hernández",
+          "age": "29",
+          "position": "Left-Back",
+          "nationality": "France",
+          "foot": "left",
+          "number": "21",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Achraf Hakimi",
+          "age": "26",
+          "position": "Right-Back",
+          "nationality": "Morocco",
+          "foot": "right",
+          "number": "2",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Yoram Zague",
+          "age": "19",
+          "position": "Right-Back",
+          "nationality": "France",
+          "foot": "right",
+          "number": "42",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "João Neves",
+          "age": "20",
+          "position": "Defensive Midfield",
+          "nationality": "Portugal",
+          "foot": "right",
+          "number": "87",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Vitinha",
+          "age": "25",
+          "position": "Central Midfield",
+          "nationality": "Portugal",
+          "foot": "right",
+          "number": "17",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Warren Zaïre-Emery",
+          "age": "19",
+          "position": "Central Midfield",
+          "nationality": "France",
+          "foot": "right",
+          "number": "33",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Fabián Ruiz",
+          "age": "29",
+          "position": "Central Midfield",
+          "nationality": "Spain",
+          "foot": "left",
+          "number": "8",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Senny Mayulu",
+          "age": "19",
+          "position": "Central Midfield",
+          "nationality": "France",
+          "foot": "both",
+          "number": "24",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Khvicha Kvaratskhelia",
+          "age": "24",
+          "position": "Left Winger",
+          "nationality": "Georgia",
+          "foot": "both",
+          "number": "7",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Bradley Barcola",
+          "age": "22",
+          "position": "Left Winger",
+          "nationality": "France",
+          "foot": "right",
+          "number": "29",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Ousmane Dembélé",
+          "age": "28",
+          "position": "Right Winger",
+          "nationality": "France",
+          "foot": "both",
+          "number": "10",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Désiré Doué",
+          "age": "20",
+          "position": "Right Winger",
+          "nationality": "France",
+          "foot": "right",
+          "number": "14",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Kang-in Lee",
+          "age": "24",
+          "position": "Right Winger",
+          "nationality": "Korea, South",
+          "foot": "left",
+          "number": "19",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Ibrahim Mbaye",
+          "age": "17",
+          "position": "Right Winger",
+          "nationality": "France",
+          "foot": "right",
+          "number": "49",
+          "club": "Paris Saint-Germain"
+      },
+      {
+          "name": "Gonçalo Ramos",
+          "age": "23",
+          "position": "Centre-Forward",
+          "nationality": "Portugal",
+          "foot": "right",
+          "number": "9",
+          "club": "Paris Saint-Germain"
+      },
+      {
+        "name": "Jonas Urbig",
+        "age": "21",
+        "position": "Goalkeeper",
+        "nationality": "Germany",
+        "foot": "both",
+        "number": "40",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Manuel Neuer",
+        "age": "39",
+        "position": "Goalkeeper",
+        "nationality": "Germany",
+        "foot": "right",
+        "number": "1",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Daniel Peretz",
+        "age": "24",
+        "position": "Goalkeeper",
+        "nationality": "Israel",
+        "foot": "right",
+        "number": "18",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Sven Ulreich",
+        "age": "36",
+        "position": "Goalkeeper",
+        "nationality": "Germany",
+        "foot": "right",
+        "number": "26",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Dayot Upamecano",
+        "age": "26",
+        "position": "Centre-Back",
+        "nationality": "France",
+        "foot": "right",
+        "number": "2",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Min-jae Kim",
+        "age": "28",
+        "position": "Centre-Back",
+        "nationality": "Korea, South",
+        "foot": "right",
+        "number": "3",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Hiroki Ito",
+        "age": "26",
+        "position": "Centre-Back",
+        "nationality": "Japan",
+        "foot": "left",
+        "number": "21",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Eric Dier",
+        "age": "31",
+        "position": "Centre-Back",
+        "nationality": "England",
+        "foot": "right",
+        "number": "15",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Tarek Buchmann",
+        "age": "20",
+        "position": "Centre-Back",
+        "nationality": "Germany",
+        "foot": "right",
+        "number": "28",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Alphonso Davies",
+        "age": "24",
+        "position": "Left-Back",
+        "nationality": "Canada",
+        "foot": "left",
+        "number": "19",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Raphaël Guerreiro",
+        "age": "31",
+        "position": "Left-Back",
+        "nationality": "Portugal",
+        "foot": "left",
+        "number": "22",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Adam Aznou",
+        "age": "19",
+        "position": "Left-Back",
+        "nationality": "Morocco",
+        "foot": "left",
+        "number": "-",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Josip Stanisic",
+        "age": "25",
+        "position": "Right-Back",
+        "nationality": "Croatia",
+        "foot": "both",
+        "number": "44",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Konrad Laimer",
+        "age": "28",
+        "position": "Right-Back",
+        "nationality": "Austria",
+        "foot": "right",
+        "number": "27",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Sacha Boey",
+        "age": "24",
+        "position": "Right-Back",
+        "nationality": "France",
+        "foot": "right",
+        "number": "23",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Aleksandar Pavlovic",
+        "age": "21",
+        "position": "Defensive Midfield",
+        "nationality": "Germany",
+        "foot": "both",
+        "number": "45",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Joshua Kimmich",
+        "age": "30",
+        "position": "Defensive Midfield",
+        "nationality": "Germany",
+        "foot": "right",
+        "number": "6",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "João Palhinha",
+        "age": "29",
+        "position": "Defensive Midfield",
+        "nationality": "Portugal",
+        "foot": "right",
+        "number": "16",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Leon Goretzka",
+        "age": "30",
+        "position": "Central Midfield",
+        "nationality": "Germany",
+        "foot": "right",
+        "number": "8",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Jamal Musiala",
+        "age": "22",
+        "position": "Attacking Midfield",
+        "nationality": "Germany",
+        "foot": "right",
+        "number": "42",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Maurice Krattenmacher",
+        "age": "19",
+        "position": "Attacking Midfield",
+        "nationality": "Germany",
+        "foot": "both",
+        "number": "-",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Kingsley Coman",
+        "age": "28",
+        "position": "Left Winger",
+        "nationality": "France",
+        "foot": "right",
+        "number": "11",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Serge Gnabry",
+        "age": "29",
+        "position": "Left Winger",
+        "nationality": "Germany",
+        "foot": "right",
+        "number": "7",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Michael Olise",
+        "age": "23",
+        "position": "Right Winger",
+        "nationality": "France",
+        "foot": "left",
+        "number": "17",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Leroy Sané",
+        "age": "29",
+        "position": "Right Winger",
+        "nationality": "Germany",
+        "foot": "left",
+        "number": "10",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Thomas Müller",
+        "age": "35",
+        "position": "Second Striker",
+        "nationality": "Germany",
+        "foot": "right",
+        "number": "25",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Gabriel Vidovic",
+        "age": "21",
+        "position": "Second Striker",
+        "nationality": "Croatia",
+        "foot": "right",
+        "number": "24",
+        "club": "Bayern Munich"
+    },
+    {
+        "name": "Harry Kane",
+        "age": "31",
+        "position": "Centre-Forward",
+        "nationality": "England",
+        "foot": "right",
+        "number": "9",
+        "club": "Bayern Munich"
+    },
+    {
+      "name": "Thibaut Courtois",
+      "age": "33",
+      "position": "Goalkeeper",
+      "nationality": "Belgium",
+      "foot": "left",
+      "number": "1",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Andriy Lunin",
+      "age": "26",
+      "position": "Goalkeeper",
+      "nationality": "Ukraine",
+      "foot": "right",
+      "number": "13",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Fran González",
+      "age": "19",
+      "position": "Goalkeeper",
+      "nationality": "Spain",
+      "foot": "right",
+      "number": "26",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Dean Huijsen",
+      "age": "20",
+      "position": "Centre-Back",
+      "nationality": "Spain",
+      "foot": "both",
+      "number": "-",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Éder Militão",
+      "age": "27",
+      "position": "Centre-Back",
+      "nationality": "Brazil",
+      "foot": "right",
+      "number": "3",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Raúl Asencio",
+      "age": "22",
+      "position": "Centre-Back",
+      "nationality": "Spain",
+      "foot": "right",
+      "number": "35",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Antonio Rüdiger",
+      "age": "32",
+      "position": "Centre-Back",
+      "nationality": "Germany",
+      "foot": "right",
+      "number": "22",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "David Alaba",
+      "age": "32",
+      "position": "Centre-Back",
+      "nationality": "Austria",
+      "foot": "left",
+      "number": "4",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Jesús Vallejo",
+      "age": "28",
+      "position": "Centre-Back",
+      "nationality": "Spain",
+      "foot": "right",
+      "number": "18",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Ferland Mendy",
+      "age": "29",
+      "position": "Left-Back",
+      "nationality": "France",
+      "foot": "left",
+      "number": "23",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Fran García",
+      "age": "25",
+      "position": "Left-Back",
+      "nationality": "Spain",
+      "foot": "left",
+      "number": "20",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Trent Alexander-Arnold",
+      "age": "26",
+      "position": "Right-Back",
+      "nationality": "England",
+      "foot": "right",
+      "number": "-",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Daniel Carvajal",
+      "age": "33",
+      "position": "Right-Back",
+      "nationality": "Spain",
+      "foot": "right",
+      "number": "2",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Lucas Vázquez",
+      "age": "33",
+      "position": "Right-Back",
+      "nationality": "Spain",
+      "foot": "right",
+      "number": "17",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Aurélien Tchouaméni",
+      "age": "25",
+      "position": "Defensive Midfield",
+      "nationality": "France",
+      "foot": "right",
+      "number": "14",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Federico Valverde",
+      "age": "26",
+      "position": "Central Midfield",
+      "nationality": "Uruguay",
+      "foot": "right",
+      "number": "8",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Eduardo Camavinga",
+      "age": "22",
+      "position": "Central Midfield",
+      "nationality": "France",
+      "foot": "left",
+      "number": "6",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Dani Ceballos",
+      "age": "28",
+      "position": "Central Midfield",
+      "nationality": "Spain",
+      "foot": "right",
+      "number": "19",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Luka Modrić",
+      "age": "39",
+      "position": "Central Midfield",
+      "nationality": "Croatia",
+      "foot": "right",
+      "number": "10",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Jude Bellingham",
+      "age": "21",
+      "position": "Attacking Midfield",
+      "nationality": "England",
+      "foot": "right",
+      "number": "5",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Vinicius Junior",
+      "age": "24",
+      "position": "Left Winger",
+      "nationality": "Brazil",
+      "foot": "right",
+      "number": "7",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Rodrygo",
+      "age": "24",
+      "position": "Right Winger",
+      "nationality": "Brazil",
+      "foot": "right",
+      "number": "11",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Arda Güler",
+      "age": "20",
+      "position": "Right Winger",
+      "nationality": "Türkiye",
+      "foot": "left",
+      "number": "15",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Brahim Díaz",
+      "age": "25",
+      "position": "Right Winger",
+      "nationality": "Morocco",
+      "foot": "both",
+      "number": "21",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Kylian Mbappé",
+      "age": "26",
+      "position": "Centre-Forward",
+      "nationality": "France",
+      "foot": "right",
+      "number": "9",
+      "club": "Real Madrid"
+  },
+  {
+      "name": "Endrick",
+      "age": "18",
+      "position": "Centre-Forward",
+      "nationality": "Brazil",
+      "foot": "left",
+      "number": "16",
+      "club": "Real Madrid"
+  }, {
+    "name": "Alisson",
+    "age": "32",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "foot": "right",
+    "number": "1",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Caoimhín Kelleher",
+    "age": "26",
+    "position": "Goalkeeper",
+    "nationality": "Ireland",
+    "foot": "right",
+    "number": "62",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Vitezslav Jaros",
+    "age": "23",
+    "position": "Goalkeeper",
+    "nationality": "Czech Republic",
+    "foot": "right",
+    "number": "56",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Harvey Davies",
+    "age": "21",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "foot": "left",
+    "number": "95",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Ibrahima Konaté",
+    "age": "26",
+    "position": "Centre-Back",
+    "nationality": "France",
+    "foot": "right",
+    "number": "5",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Virgil van Dijk",
+    "age": "33",
+    "position": "Centre-Back",
+    "nationality": "Netherlands",
+    "foot": "right",
+    "number": "4",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Joe Gomez",
+    "age": "28",
+    "position": "Centre-Back",
+    "nationality": "England",
+    "foot": "right",
+    "number": "2",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Jarell Quansah",
+    "age": "22",
+    "position": "Centre-Back",
+    "nationality": "England",
+    "foot": "right",
+    "number": "78",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Konstantinos Tsimikas",
+    "age": "29",
+    "position": "Left-Back",
+    "nationality": "Greece",
+    "foot": "left",
+    "number": "21",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Andrew Robertson",
+    "age": "31",
+    "position": "Left-Back",
+    "nationality": "Scotland",
+    "foot": "left",
+    "number": "26",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Conor Bradley",
+    "age": "21",
+    "position": "Right-Back",
+    "nationality": "Northern Ireland",
+    "foot": "right",
+    "number": "84",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Ryan Gravenberch",
+    "age": "23",
+    "position": "Defensive Midfield",
+    "nationality": "Netherlands",
+    "foot": "right",
+    "number": "38",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Wataru Endo",
+    "age": "32",
+    "position": "Defensive Midfield",
+    "nationality": "Japan",
+    "foot": "right",
+    "number": "3",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Tyler Morton",
+    "age": "22",
+    "position": "Defensive Midfield",
+    "nationality": "England",
+    "foot": "right",
+    "number": "80",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Alexis Mac Allister",
+    "age": "26",
+    "position": "Central Midfield",
+    "nationality": "Argentina",
+    "foot": "right",
+    "number": "10",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Curtis Jones",
+    "age": "24",
+    "position": "Central Midfield",
+    "nationality": "England",
+    "foot": "right",
+    "number": "17",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Dominik Szoboszlai",
+    "age": "24",
+    "position": "Attacking Midfield",
+    "nationality": "Hungary",
+    "foot": "right",
+    "number": "8",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Harvey Elliott",
+    "age": "22",
+    "position": "Attacking Midfield",
+    "nationality": "England",
+    "foot": "left",
+    "number": "19",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Luis Díaz",
+    "age": "28",
+    "position": "Left Winger",
+    "nationality": "Colombia",
+    "foot": "right",
+    "number": "7",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Cody Gakpo",
+    "age": "26",
+    "position": "Left Winger",
+    "nationality": "Netherlands",
+    "foot": "right",
+    "number": "18",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Mohamed Salah",
+    "age": "32",
+    "position": "Right Winger",
+    "nationality": "Egypt",
+    "foot": "left",
+    "number": "11",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Federico Chiesa",
+    "age": "27",
+    "position": "Right Winger",
+    "nationality": "Italy",
+    "foot": "right",
+    "number": "14",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Darwin Núñez",
+    "age": "25",
+    "position": "Centre-Forward",
+    "nationality": "Uruguay",
+    "foot": "right",
+    "number": "9",
+    "club": "Liverpool FC"
+},
+{
+    "name": "Diogo Jota",
+    "age": "28",
+    "position": "Centre-Forward",
+    "nationality": "Portugal",
+    "foot": "right",
+    "number": "20",
+    "club": "Liverpool FC"
+},
+{
+  "name": "Jan Oblak",
+  "age": "32",
+  "position": "Goalkeeper",
+  "nationality": "Slovenia",
+  "foot": "right",
+  "number": "13",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Juan Musso",
+  "age": "31",
+  "position": "Goalkeeper",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "1",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Robin Le Normand",
+  "age": "28",
+  "position": "Centre-Back",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "24",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "José María Giménez",
+  "age": "30",
+  "position": "Centre-Back",
+  "nationality": "Uruguay",
+  "foot": "right",
+  "number": "2",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Clément Lenglet",
+  "age": "29",
+  "position": "Centre-Back",
+  "nationality": "France",
+  "foot": "left",
+  "number": "15",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Axel Witsel",
+  "age": "36",
+  "position": "Centre-Back",
+  "nationality": "Belgium",
+  "foot": "right",
+  "number": "20",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "César Azpilicueta",
+  "age": "35",
+  "position": "Centre-Back",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "3",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Reinildo Mandava",
+  "age": "31",
+  "position": "Left-Back",
+  "nationality": "Mozambique",
+  "foot": "left",
+  "number": "23",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Javi Galán",
+  "age": "30",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "foot": "left",
+  "number": "21",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Nahuel Molina",
+  "age": "27",
+  "position": "Right-Back",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "16",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Pablo Barrios",
+  "age": "21",
+  "position": "Central Midfield",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "8",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Conor Gallagher",
+  "age": "25",
+  "position": "Central Midfield",
+  "nationality": "England",
+  "foot": "right",
+  "number": "4",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Rodrigo De Paul",
+  "age": "31",
+  "position": "Central Midfield",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "5",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Koke",
+  "age": "33",
+  "position": "Central Midfield",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "6",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Marcos Llorente",
+  "age": "30",
+  "position": "Right Midfield",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "14",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Thomas Lemar",
+  "age": "29",
+  "position": "Attacking Midfield",
+  "nationality": "France",
+  "foot": "left",
+  "number": "11",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Samuel Lino",
+  "age": "25",
+  "position": "Left Winger",
+  "nationality": "Brazil",
+  "foot": "right",
+  "number": "12",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Rodrigo Riquelme",
+  "age": "25",
+  "position": "Left Winger",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "17",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Giuliano Simeone",
+  "age": "22",
+  "position": "Right Winger",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "22",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Ángel Correa",
+  "age": "30",
+  "position": "Right Winger",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "10",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Julián Alvarez",
+  "age": "25",
+  "position": "Centre-Forward",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "19",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Alexander Sørloth",
+  "age": "29",
+  "position": "Centre-Forward",
+  "nationality": "Norway",
+  "foot": "left",
+  "number": "9",
+  "club": "Atlético de Madrid"
+},
+{
+  "name": "Antoine Griezmann",
+  "age": "34",
+  "position": "Centre-Forward",
+  "nationality": "France",
+  "foot": "left",
+  "number": "7",
+  "club": "Atlético de Madrid"
+}, {
+  "name": "Ederson",
+  "age": "31",
+  "position": "Goalkeeper",
+  "nationality": "Brazil",
+  "foot": "left",
+  "number": "31",
+  "club": "Manchester City"
+},
+{
+  "name": "Stefan Ortega",
+  "age": "32",
+  "position": "Goalkeeper",
+  "nationality": "Germany",
+  "foot": "right",
+  "number": "18",
+  "club": "Manchester City"
+},
+{
+  "name": "Scott Carson",
+  "age": "39",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "foot": "right",
+  "number": "33",
+  "club": "Manchester City"
+},
+{
+  "name": "Rúben Dias",
+  "age": "28",
+  "position": "Centre-Back",
+  "nationality": "Portugal",
+  "foot": "right",
+  "number": "3",
+  "club": "Manchester City"
+},
+{
+  "name": "Abdukodir Khusanov",
+  "age": "21",
+  "position": "Centre-Back",
+  "nationality": "Uzbekistan",
+  "foot": "right",
+  "number": "45",
+  "club": "Manchester City"
+},
+{
+  "name": "Vitor Reis",
+  "age": "19",
+  "position": "Centre-Back",
+  "nationality": "Brazil",
+  "foot": "right",
+  "number": "22",
+  "club": "Manchester City"
+},
+{
+  "name": "Manuel Akanji",
+  "age": "29",
+  "position": "Centre-Back",
+  "nationality": "Switzerland",
+  "foot": "right",
+  "number": "25",
+  "club": "Manchester City"
+},
+{
+  "name": "John Stones",
+  "age": "31",
+  "position": "Centre-Back",
+  "nationality": "England",
+  "foot": "right",
+  "number": "5",
+  "club": "Manchester City"
+},
+{
+  "name": "Nathan Aké",
+  "age": "30",
+  "position": "Centre-Back",
+  "nationality": "Netherlands",
+  "foot": "left",
+  "number": "6",
+  "club": "Manchester City"
+},
+{
+  "name": "Josko Gvardiol",
+  "age": "23",
+  "position": "Left-Back",
+  "nationality": "Croatia",
+  "foot": "left",
+  "number": "24",
+  "club": "Manchester City"
+},
+{
+  "name": "Rico Lewis",
+  "age": "20",
+  "position": "Right-Back",
+  "nationality": "England",
+  "foot": "right",
+  "number": "82",
+  "club": "Manchester City"
+},
+{
+  "name": "Rodri",
+  "age": "28",
+  "position": "Defensive Midfield",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "16",
+  "club": "Manchester City"
+},
+{
+  "name": "Nico González",
+  "age": "23",
+  "position": "Central Midfield",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "14",
+  "club": "Manchester City"
+},
+{
+  "name": "Matheus Nunes",
+  "age": "26",
+  "position": "Central Midfield",
+  "nationality": "Portugal",
+  "foot": "right",
+  "number": "27",
+  "club": "Manchester City"
+},
+{
+  "name": "Mateo Kovacic",
+  "age": "31",
+  "position": "Central Midfield",
+  "nationality": "Croatia",
+  "foot": "right",
+  "number": "8",
+  "club": "Manchester City"
+},
+{
+  "name": "İlkay Gündoğan",
+  "age": "34",
+  "position": "Central Midfield",
+  "nationality": "Germany",
+  "foot": "right",
+  "number": "19",
+  "club": "Manchester City"
+},
+{
+  "name": "Bernardo Silva",
+  "age": "30",
+  "position": "Attacking Midfield",
+  "nationality": "Portugal",
+  "foot": "left",
+  "number": "20",
+  "club": "Manchester City"
+},
+{
+  "name": "Kevin De Bruyne",
+  "age": "33",
+  "position": "Attacking Midfield",
+  "nationality": "Belgium",
+  "foot": "right",
+  "number": "17",
+  "club": "Manchester City"
+},
+{
+  "name": "James McAtee",
+  "age": "22",
+  "position": "Attacking Midfield",
+  "nationality": "England",
+  "foot": "left",
+  "number": "87",
+  "club": "Manchester City"
+},
+{
+  "name": "Claudio Echeverri",
+  "age": "19",
+  "position": "Attacking Midfield",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "30",
+  "club": "Manchester City"
+},
+{
+  "name": "Nico O'Reilly",
+  "age": "20",
+  "position": "Attacking Midfield",
+  "nationality": "England",
+  "foot": "left",
+  "number": "75",
+  "club": "Manchester City"
+},
+{
+  "name": "Jérémy Doku",
+  "age": "23",
+  "position": "Left Winger",
+  "nationality": "Belgium",
+  "foot": "right",
+  "number": "11",
+  "club": "Manchester City"
+},
+{
+  "name": "Jack Grealish",
+  "age": "29",
+  "position": "Left Winger",
+  "nationality": "England",
+  "foot": "right",
+  "number": "10",
+  "club": "Manchester City"
+},
+{
+  "name": "Phil Foden",
+  "age": "25",
+  "position": "Right Winger",
+  "nationality": "England",
+  "foot": "left",
+  "number": "47",
+  "club": "Manchester City"
+},
+{
+  "name": "Savinho",
+  "age": "21",
+  "position": "Right Winger",
+  "nationality": "Brazil",
+  "foot": "left",
+  "number": "26",
+  "club": "Manchester City"
+},
+{
+  "name": "Oscar Bobb",
+  "age": "21",
+  "position": "Right Winger",
+  "nationality": "Norway",
+  "foot": "left",
+  "number": "52",
+  "club": "Manchester City"
+},
+{
+  "name": "Erling Haaland",
+  "age": "24",
+  "position": "Centre-Forward",
+  "nationality": "Norway",
+  "foot": "left",
+  "number": "9",
+  "club": "Manchester City"
+},
+{
+  "name": "Omar Marmoush",
+  "age": "26",
+  "position": "Centre-Forward",
+  "nationality": "Egypt",
+  "foot": "right",
+  "number": "7",
+  "club": "Manchester City"
+}, {
+  "name": "André Onana",
+  "age": "29",
+  "position": "Goalkeeper",
+  "nationality": "Cameroon",
+  "foot": "right",
+  "number": "24",
+  "club": "Manchester United"
+},
+{
+  "name": "Altay Bayındır",
+  "age": "27",
+  "position": "Goalkeeper",
+  "nationality": "Türkiye",
+  "foot": "right",
+  "number": "1",
+  "club": "Manchester United"
+},
+{
+  "name": "Tom Heaton",
+  "age": "39",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "foot": "right",
+  "number": "22",
+  "club": "Manchester United"
+},
+{
+  "name": "Leny Yoro",
+  "age": "19",
+  "position": "Centre-Back",
+  "nationality": "France",
+  "foot": "right",
+  "number": "15",
+  "club": "Manchester United"
+},
+{
+  "name": "Lisandro Martínez",
+  "age": "27",
+  "position": "Centre-Back",
+  "nationality": "Argentina",
+  "foot": "left",
+  "number": "6",
+  "club": "Manchester United"
+},
+{
+  "name": "Matthijs de Ligt",
+  "age": "25",
+  "position": "Centre-Back",
+  "nationality": "Netherlands",
+  "foot": "right",
+  "number": "4",
+  "club": "Manchester United"
+},
+{
+  "name": "Harry Maguire",
+  "age": "32",
+  "position": "Centre-Back",
+  "nationality": "England",
+  "foot": "right",
+  "number": "5",
+  "club": "Manchester United"
+},
+{
+  "name": "Victor Lindelöf",
+  "age": "30",
+  "position": "Centre-Back",
+  "nationality": "Sweden",
+  "foot": "right",
+  "number": "2",
+  "club": "Manchester United"
+},
+{
+  "name": "Ayden Heaven",
+  "age": "18",
+  "position": "Centre-Back",
+  "nationality": "England",
+  "foot": "left",
+  "number": "26",
+  "club": "Manchester United"
+},
+{
+  "name": "Jonny Evans",
+  "age": "37",
+  "position": "Centre-Back",
+  "nationality": "Northern Ireland",
+  "foot": "both",
+  "number": "35",
+  "club": "Manchester United"
+},
+{
+  "name": "Luke Shaw",
+  "age": "29",
+  "position": "Left-Back",
+  "nationality": "England",
+  "foot": "left",
+  "number": "23",
+  "club": "Manchester United"
+},
+{
+  "name": "Harry Amass",
+  "age": "18",
+  "position": "Left-Back",
+  "nationality": "England",
+  "foot": "left",
+  "number": "41",
+  "club": "Manchester United"
+},
+{
+  "name": "Diogo Dalot",
+  "age": "26",
+  "position": "Right-Back",
+  "nationality": "Portugal",
+  "foot": "right",
+  "number": "20",
+  "club": "Manchester United"
+},
+{
+  "name": "Noussair Mazraoui",
+  "age": "27",
+  "position": "Right-Back",
+  "nationality": "Morocco",
+  "foot": "right",
+  "number": "3",
+  "club": "Manchester United"
+},
+{
+  "name": "Manuel Ugarte",
+  "age": "24",
+  "position": "Defensive Midfield",
+  "nationality": "Uruguay",
+  "foot": "right",
+  "number": "25",
+  "club": "Manchester United"
+},
+{
+  "name": "Casemiro",
+  "age": "33",
+  "position": "Defensive Midfield",
+  "nationality": "Brazil",
+  "foot": "right",
+  "number": "18",
+  "club": "Manchester United"
+},
+{
+  "name": "Toby Collyer",
+  "age": "21",
+  "position": "Defensive Midfield",
+  "nationality": "England",
+  "foot": "right",
+  "number": "43",
+  "club": "Manchester United"
+},
+{
+  "name": "Kobbie Mainoo",
+  "age": "20",
+  "position": "Central Midfield",
+  "nationality": "England",
+  "foot": "right",
+  "number": "37",
+  "club": "Manchester United"
+},
+{
+  "name": "Christian Eriksen",
+  "age": "33",
+  "position": "Central Midfield",
+  "nationality": "Denmark",
+  "foot": "right",
+  "number": "-",
+  "club": "Manchester United"
+},
+{
+  "name": "Daniel Gore",
+  "age": "20",
+  "position": "Central Midfield",
+  "nationality": "England",
+  "foot": "right",
+  "number": "-",
+  "club": "Manchester United"
+},
+{
+  "name": "Patrick Dorgu",
+  "age": "20",
+  "position": "Left Midfield",
+  "nationality": "Denmark",
+  "foot": "left",
+  "number": "13",
+  "club": "Manchester United"
+},
+{
+  "name": "Bruno Fernandes",
+  "age": "30",
+  "position": "Attacking Midfield",
+  "nationality": "Portugal",
+  "foot": "right",
+  "number": "8",
+  "club": "Manchester United"
+},
+{
+  "name": "Alejandro Garnacho",
+  "age": "20",
+  "position": "Attacking Midfield",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "17",
+  "club": "Manchester United"
+},
+{
+  "name": "Mason Mount",
+  "age": "26",
+  "position": "Attacking Midfield",
+  "nationality": "England",
+  "foot": "right",
+  "number": "7",
+  "club": "Manchester United"
+},
+{
+  "name": "Amad Diallo",
+  "age": "22",
+  "position": "Right Winger",
+  "nationality": "Cote d'Ivoire",
+  "foot": "left",
+  "number": "16",
+  "club": "Manchester United"
+},
+{
+  "name": "Rasmus Højlund",
+  "age": "22",
+  "position": "Centre-Forward",
+  "nationality": "Denmark",
+  "foot": "left",
+  "number": "9",
+  "club": "Manchester United"
+},
+{
+  "name": "Joshua Zirkzee",
+  "age": "24",
+  "position": "Centre-Forward",
+  "nationality": "Netherlands",
+  "foot": "right",
+  "number": "11",
+  "club": "Manchester United"
+},
+{
+  "name": "Chido Obi",
+  "age": "17",
+  "position": "Centre-Forward",
+  "nationality": "Denmark",
+  "foot": "right",
+  "number": "56",
+  "club": "Manchester United"
+},
+{
+  "name": "Ethan Wheatley",
+  "age": "19",
+  "position": "Centre-Forward",
+  "nationality": "England",
+  "foot": "未知",
+  "number": "-",
+  "club": "Manchester United"
+},  {
+  "name": "Robert Sánchez",
+  "age": "27",
+  "position": "Goalkeeper",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "1",
+  "club": "Chelsea"
+},
+{
+  "name": "Filip Jørgensen",
+  "age": "23",
+  "position": "Goalkeeper",
+  "nationality": "Denmark",
+  "foot": "right",
+  "number": "12",
+  "club": "Chelsea"
+},
+{
+  "name": "Mike Penders",
+  "age": "19",
+  "position": "Goalkeeper",
+  "nationality": "Belgium",
+  "foot": "left",
+  "number": "-",
+  "club": "Chelsea"
+},
+{
+  "name": "Lucas Bergström",
+  "age": "22",
+  "position": "Goalkeeper",
+  "nationality": "Finland",
+  "foot": "right",
+  "number": "47",
+  "club": "Chelsea"
+},
+{
+  "name": "Marcus Bettinelli",
+  "age": "33",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "foot": "right",
+  "number": "13",
+  "club": "Chelsea"
+},
+{
+  "name": "Levi Colwill",
+  "age": "22",
+  "position": "Centre-Back",
+  "nationality": "England",
+  "foot": "left",
+  "number": "6",
+  "club": "Chelsea"
+},
+{
+  "name": "Trevoh Chalobah",
+  "age": "25",
+  "position": "Centre-Back",
+  "nationality": "England",
+  "foot": "right",
+  "number": "23",
+  "club": "Chelsea"
+},
+{
+  "name": "Wesley Fofana",
+  "age": "24",
+  "position": "Centre-Back",
+  "nationality": "France",
+  "foot": "right",
+  "number": "29",
+  "club": "Chelsea"
+},
+{
+  "name": "Benoît Badiashile",
+  "age": "24",
+  "position": "Centre-Back",
+  "nationality": "France",
+  "foot": "left",
+  "number": "5",
+  "club": "Chelsea"
+},
+{
+  "name": "Tosin Adarabioyo",
+  "age": "27",
+  "position": "Centre-Back",
+  "nationality": "England",
+  "foot": "right",
+  "number": "4",
+  "club": "Chelsea"
+},
+{
+  "name": "Aarón Anselmino",
+  "age": "20",
+  "position": "Centre-Back",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "30",
+  "club": "Chelsea"
+},
+{
+  "name": "Marc Cucurella",
+  "age": "26",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "foot": "left",
+  "number": "3",
+  "club": "Chelsea"
+},
+{
+  "name": "Malo Gusto",
+  "age": "22",
+  "position": "Right-Back",
+  "nationality": "France",
+  "foot": "right",
+  "number": "27",
+  "club": "Chelsea"
+},
+{
+  "name": "Reece James",
+  "age": "25",
+  "position": "Right-Back",
+  "nationality": "England",
+  "foot": "right",
+  "number": "24",
+  "club": "Chelsea"
+},
+{
+  "name": "Josh Acheampong",
+  "age": "19",
+  "position": "Right-Back",
+  "nationality": "England",
+  "foot": "right",
+  "number": "34",
+  "club": "Chelsea"
+},
+{
+  "name": "Moisés Caicedo",
+  "age": "23",
+  "position": "Defensive Midfield",
+  "nationality": "Ecuador",
+  "foot": "right",
+  "number": "25",
+  "club": "Chelsea"
+},
+{
+  "name": "Roméo Lavia",
+  "age": "21",
+  "position": "Defensive Midfield",
+  "nationality": "Belgium",
+  "foot": "right",
+  "number": "45",
+  "club": "Chelsea"
+},
+{
+  "name": "Enzo Fernández",
+  "age": "24",
+  "position": "Central Midfield",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "8",
+  "club": "Chelsea"
+},
+{
+  "name": "Kiernan Dewsbury-Hall",
+  "age": "26",
+  "position": "Central Midfield",
+  "nationality": "England",
+  "foot": "left",
+  "number": "22",
+  "club": "Chelsea"
+},
+{
+  "name": "Mathis Amougou",
+  "age": "19",
+  "position": "Central Midfield",
+  "nationality": "France",
+  "foot": "right",
+  "number": "39",
+  "club": "Chelsea"
+},
+{
+  "name": "Cole Palmer",
+  "age": "23",
+  "position": "Attacking Midfield",
+  "nationality": "England",
+  "foot": "left",
+  "number": "20",
+  "club": "Chelsea"
+},
+{
+  "name": "Jadon Sancho",
+  "age": "25",
+  "position": "Left Winger",
+  "nationality": "England",
+  "foot": "right",
+  "number": "19",
+  "club": "Chelsea"
+},
+{
+  "name": "Mykhaylo Mudryk",
+  "age": "24",
+  "position": "Left Winger",
+  "nationality": "Ukraine",
+  "foot": "right",
+  "number": "-",
+  "club": "Chelsea"
+},
+{
+  "name": "Tyrique George",
+  "age": "19",
+  "position": "Left Winger",
+  "nationality": "England",
+  "foot": "right",
+  "number": "32",
+  "club": "Chelsea"
+},
+{
+  "name": "Pedro Neto",
+  "age": "25",
+  "position": "Right Winger",
+  "nationality": "Portugal",
+  "foot": "left",
+  "number": "7",
+  "club": "Chelsea"
+},
+{
+  "name": "Noni Madueke",
+  "age": "23",
+  "position": "Right Winger",
+  "nationality": "England",
+  "foot": "left",
+  "number": "11",
+  "club": "Chelsea"
+},
+{
+  "name": "Nicolas Jackson",
+  "age": "23",
+  "position": "Centre-Forward",
+  "nationality": "Senegal",
+  "foot": "right",
+  "number": "15",
+  "club": "Chelsea"
+},
+{
+  "name": "Liam Delap",
+  "age": "22",
+  "position": "Centre-Forward",
+  "nationality": "England",
+  "foot": "right",
+  "number": "9",
+  "club": "Chelsea"
+},
+{
+  "name": "Christopher Nkunku",
+  "age": "27",
+  "position": "Centre-Forward",
+  "nationality": "France",
+  "foot": "right",
+  "number": "18",
+  "club": "Chelsea"
+},
+{
+  "name": "Marc Guiu",
+  "age": "19",
+  "position": "Centre-Forward",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "38",
+  "club": "Chelsea"
+},
+{
+  "name": "David Datro Fofana",
+  "age": "22",
+  "position": "Centre-Forward",
+  "nationality": "Cote d'Ivoire",
+  "foot": "right",
+  "number": "-",
+  "club": "Chelsea"
+}, {
+  "name": "Guglielmo Vicario",
+  "age": "28",
+  "position": "Goalkeeper",
+  "nationality": "Italy",
+  "foot": "right",
+  "number": "1",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Antonín Kinský",
+  "age": "22",
+  "position": "Goalkeeper",
+  "nationality": "Czech Republic",
+  "foot": "right",
+  "number": "31",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Fraser Forster",
+  "age": "37",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "foot": "right",
+  "number": "20",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Brandon Austin",
+  "age": "26",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "foot": "right",
+  "number": "40",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Alfie Whiteman",
+  "age": "26",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "foot": "right",
+  "number": "41",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Cristian Romero",
+  "age": "27",
+  "position": "Centre-Back",
+  "nationality": "Argentina",
+  "foot": "right",
+  "number": "17",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Micky van de Ven",
+  "age": "24",
+  "position": "Centre-Back",
+  "nationality": "Netherlands",
+  "foot": "left",
+  "number": "37",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Kevin Danso",
+  "age": "26",
+  "position": "Centre-Back",
+  "nationality": "Austria",
+  "foot": "right",
+  "number": "4",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Radu Drăgușin",
+  "age": "23",
+  "position": "Centre-Back",
+  "nationality": "Romania",
+  "foot": "right",
+  "number": "6",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Ben Davies",
+  "age": "32",
+  "position": "Centre-Back",
+  "nationality": "Wales",
+  "foot": "left",
+  "number": "33",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Destiny Udogie",
+  "age": "22",
+  "position": "Left-Back",
+  "nationality": "Italy",
+  "foot": "left",
+  "number": "13",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Djed Spence",
+  "age": "24",
+  "position": "Left-Back",
+  "nationality": "England",
+  "foot": "right",
+  "number": "24",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Sergio Reguilón",
+  "age": "28",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "foot": "left",
+  "number": "3",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Pedro Porro",
+  "age": "25",
+  "position": "Right-Back",
+  "nationality": "Spain",
+  "foot": "right",
+  "number": "23",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Archie Gray",
+  "age": "19",
+  "position": "Defensive Midfield",
+  "nationality": "England",
+  "foot": "right",
+  "number": "14",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Rodrigo Bentancur",
+  "age": "27",
+  "position": "Defensive Midfield",
+  "nationality": "Uruguay",
+  "foot": "right",
+  "number": "30",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Yves Bissouma",
+  "age": "28",
+  "position": "Defensive Midfield",
+  "nationality": "Mali",
+  "foot": "right",
+  "number": "8",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Lucas Bergvall",
+  "age": "19",
+  "position": "Central Midfield",
+  "nationality": "Sweden",
+  "foot": "right",
+  "number": "15",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Pape Matar Sarr",
+  "age": "22",
+  "position": "Central Midfield",
+  "nationality": "Senegal",
+  "foot": "right",
+  "number": "29",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Dejan Kulusevski",
+  "age": "25",
+  "position": "Attacking Midfield",
+  "nationality": "Sweden",
+  "foot": "left",
+  "number": "21",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "James Maddison",
+  "age": "28",
+  "position": "Attacking Midfield",
+  "nationality": "England",
+  "foot": "right",
+  "number": "10",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Heung-min Son",
+  "age": "32",
+  "position": "Left Winger",
+  "nationality": "Korea, South",
+  "foot": "both",
+  "number": "7",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Mikey Moore",
+  "age": "17",
+  "position": "Left Winger",
+  "nationality": "England",
+  "foot": "right",
+  "number": "47",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Timo Werner",
+  "age": "29",
+  "position": "Left Winger",
+  "nationality": "Germany",
+  "foot": "right",
+  "number": "16",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Brennan Johnson",
+  "age": "24",
+  "position": "Right Winger",
+  "nationality": "Wales",
+  "foot": "right",
+  "number": "22",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Wilson Odobert",
+  "age": "20",
+  "position": "Right Winger",
+  "nationality": "France",
+  "foot": "right",
+  "number": "28",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Dominic Solanke",
+  "age": "27",
+  "position": "Centre-Forward",
+  "nationality": "England",
+  "foot": "right",
+  "number": "19",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Mathys Tel",
+  "age": "20",
+  "position": "Centre-Forward",
+  "nationality": "France",
+  "foot": "right",
+  "number": "11",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Richarlison",
+  "age": "28",
+  "position": "Centre-Forward",
+  "nationality": "Brazil",
+  "foot": "right",
+  "number": "9",
+  "club": "Tottenham Hotspur"
+},
+{
+  "name": "Dane Scarlett",
+  "age": "21",
+  "position": "Centre-Forward",
+  "nationality": "England",
+  "foot": "right",
+  "number": "44",
+  "club": "Tottenham Hotspur"
+}
+
+    ]
+}
+
