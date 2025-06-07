@@ -192,11 +192,14 @@ const teamRegionMap = {
  'Tottenham Hotspur': 'Premier League',
  'Arsenal': 'Premier League',
  'Real Madrid': 'La Liga',
- 'Barcelona': 'La Liga',
+ 'FC Barcelona': 'La Liga',
  "Atlético de Madrid": 'La Liga',
  'Bayern Munich': 'Bundesliga',
- 'Paris Saint-Germain': 'Ligue 1'
-
+ 'Paris Saint-Germain': 'Ligue 1',
+ 'Borussia Dortmund': 'Bundesliga',
+ 'Inter Milan': 'Ligue 1',
+ 'AC Milan': 'Ligue 1'
+};
 };
 // 添加位置和惯用脚的映射关系
 const positionMap = {
